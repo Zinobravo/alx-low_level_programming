@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * main - C program that prints a line to the stabdard error
+ * main - C program that prints a line
  * Return: Always 1 (success)
  */
 int main(void)
